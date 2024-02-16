@@ -5,12 +5,8 @@ This is a simple Simon game implementation using HTML, CSS, and JavaScript.
 ## Screenshots
 
 ### Game in Progress
-<img src="Screenshot1.png" alt="Screenshot 1" width="200">
-*Screenshot 1: Game in Progress*
-
-### Game Over
 <img src="Screenshot2.png" alt="Screenshot 2" width="200">
-*Screenshot 2: Game Over*
+<img src="Screenshot1.png" alt="Screenshot 1" width="200">
 
 ## How to Play
 
